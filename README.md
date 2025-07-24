@@ -70,8 +70,8 @@ interests:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lordeagle&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordeagle&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lordeagle4&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordeagle4&theme=tokyonight" height="160"/>
 </div>
 
 ---
