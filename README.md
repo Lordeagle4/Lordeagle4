@@ -91,7 +91,7 @@ Got a cool project? Looking to collaborate or hire? Let’s talk!
 - 🌐 [awtechs.com](https://awtechs.com)  
 - 🐦 Twitter/X: [@obasi_dev](https://twitter.com/@return_bird)  
 - 💼 LinkedIn: [Obasi Michael](https://linkedin.com/in/lordeagle)  
-- 📬 Email: [youremail@example.com](mailto:eaglemike7@gmail.com)
+- 📬 Email: [eaglemike7@gmail.com](mailto:eaglemike7@gmail.com)
 
 ---
 
