@@ -48,8 +48,8 @@ interests:
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🔧 **LooseJS** | A Pythonic language that compiles to JavaScript with print, async/await, range, and indentation support | Custom Parser + JS | [GitHub Repo](https://github.com/obasimikey/LooseJS) |
-| 📦 **Laravel WhatsApp Notifier** | Strategy-based notifier system with fallback and delivery logging | Laravel, Strategy Pattern | [Docs](https://github.com/obasimikey/laravel-whatsapp-notifier) |
+| 🔧 **LooseJS** | A Pythonic language that compiles to JavaScript with print, async/await, range, and indentation support | Custom Parser + JS | [GitHub Repo](https://github.com/Lordeagle4/LooseJS) |
+| 📦 **File Share API** | A file upload and CDN system with support for queuing, stats tracking, and pluggable metadata backends (DB, Redis, Files). | [Docs](https://github.com/Lordeagle4/File-Sharing-API) |
 | 📱 **ServiceNow Platform** | Uber-style service booking app (Laundry, Delivery, Food) | Laravel, Capacitor, Tailwind, REST | [Coming Soon] |
 | ⚙️ **AetosTek Toolkit** | Internal micro packages for Laravel (ORM, audit, queue utils) | Laravel Packages | [Private] |
 
