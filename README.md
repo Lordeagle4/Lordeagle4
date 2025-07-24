@@ -34,24 +34,13 @@ currently_building:
   - Custom Lightweight Laravel notification strategies (WhatsApp → SMS fallback)
   - LooseJS — a relaxed Python-style language that compiles to JS
 skills: 
-  - Laravel 12, Next.js, Tailwind, Redis, PostgreSQL
+  - Laravel, Next.js, Tailwind, Redis, PostgreSQL
   - WebSockets, Native Mobile, Docker, CI/CD, REST APIs
 interests:
   - Writing interpreters
   - Exploring networking protocols
   - Systems architecture
 ```
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🔧 **LooseJS** | A Pythonic language that compiles to JavaScript with print, async/await, range, and indentation support | Custom Parser + JS | [GitHub Repo](https://github.com/Lordeagle4/LooseJS) |
-| 📦 **File Share API** | A file upload and CDN system with support for queuing, stats tracking, and pluggable metadata backends (DB, Redis, Files). |PHP, COMPOSER, OOP | [Docs](https://github.com/Lordeagle4/File-Sharing-API) |
-| 📱 **ServiceNow Platform** | Uber-style service booking app (Laundry, Delivery, Food) | Laravel, Capacitor, Tailwind, REST | [Coming Soon] |
-| ⚙️ **AetosTek Toolkit** | Internal micro packages for Laravel (ORM, audit, queue utils) | Laravel Packages | [Private] |
 
 ---
 
